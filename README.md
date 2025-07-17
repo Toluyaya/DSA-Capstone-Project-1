@@ -39,3 +39,4 @@ Ms Excel
 - Data cleaning and formating
 - Data Aggregation (Pivot Table)
 - Visualization
+- Insights & Recommendations
